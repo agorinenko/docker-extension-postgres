@@ -1,5 +1,5 @@
 IMAGE?=agorinenko/docker-extension-postgres
-TAG?=latest
+TAG?=1.1.0
 
 BUILDER=buildx-multi-arch
 
